@@ -12,6 +12,7 @@ int main()
 	cout << "I am outside on campus at this moment, and I am not a resident" << endl;
 	cout << "Second try - change from github" << endl;
     cout << "This is Joseph!\n";
+	cout << "Goodbye from matt" << endl;
     cout << "Hello World!\n";
 	cout << "Hello From Davide\n";
 }
