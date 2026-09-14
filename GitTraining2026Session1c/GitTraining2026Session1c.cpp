@@ -9,6 +9,8 @@ int main()
     cout << "Hello World!\n";
 	cout << "Hello world! for git training session 1c\n";
 	cout << "Hello from matt" << endl;
+
+	cout << "Goodbye from matt" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
