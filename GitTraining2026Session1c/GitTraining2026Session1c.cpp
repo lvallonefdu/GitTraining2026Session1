@@ -9,7 +9,9 @@ int main()
     cout << "Hello World!\n";
 	cout << "Hello world! for git training session 1c\n";
 	cout << "Hello from matt" << endl;
-
+	cout << "I am outside on campus at this moment, and I am not a resident" << endl;
+	cout << "Second try - change from github" << endl;
+    cout << "This is Joseph!\n";
 	cout << "Goodbye from matt" << endl;
 }
 
