@@ -2,11 +2,13 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
-	std::cout << "Hello world! for git training session 1c\n";
+    cout << "Hello World!\n";
+	cout << "Hello world! for git training session 1c\n";
+	cout << "Hello from matt" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
