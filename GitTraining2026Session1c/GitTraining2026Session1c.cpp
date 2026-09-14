@@ -3,9 +3,12 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
+    cout << "This is Joseph!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
