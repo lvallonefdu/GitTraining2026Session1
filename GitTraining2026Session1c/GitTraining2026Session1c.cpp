@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 	std::cout << "Hello world! for git training session 1c\n";
+	std::cout << "Hello From Davide\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
